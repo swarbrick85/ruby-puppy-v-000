@@ -1,4 +1,4 @@
-class Dog Dog 
+class Dog 
   
   @@all = []
   
