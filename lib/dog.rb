@@ -1,6 +1,6 @@
 class Dog 
   
-  @@all = []
+  @@all = Array.new
   
   def self.clear_all
     @@all = []
