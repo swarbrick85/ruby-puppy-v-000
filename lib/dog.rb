@@ -14,7 +14,11 @@ class Dog
   end 
   
   def self.all
-    @@all 
+    x = 0 
+    while x < @@all.size 
+      puts @@all[x]
+      x += 1 
+    end 
   end 
   
 end 
